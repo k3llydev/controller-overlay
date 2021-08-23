@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 47" width="29" height="47">
+	<title>start-svg</title>
+	<defs>
+		<image  width="29" height="47" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAvCAMAAAAo/zGbAAAAAXNSR0IB2cksfwAAAGNQTFRFiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAiUjAjSAo1wAAACF0Uk5TACBvf5+/TxDf/+9f8MPIz+PYwDCAoHBgsEDQkOTxUNngoltQXAAAAQRJREFUeJztlFF6gyAQhNeqxaGrKBojJDa5/ym7aJpYhZ4g8/o7MPLtDtFT2UdelHn+SUepvMJDush28KsC140BWlN2QKG2sABbPGUMqv51qkHD2KqG7l/OGjt1/IuHIwQamPVHdMtHCosh0BNMBEp6LcFVAsp1I9E5dmsQwxJNaONUgimysUiLSjjSiWtDakepUICXWP/R4U3fNKpa5sqmBnaZSZuC4s1olKmOi72sYGpTPC6ygxbXKDUI5eLiR3uclvWeYmdfmddeUv7onjt8P1ql57371q29sGJxb6LNJeO87cFJfr6ZV5+83t39rUIX3qw1Jrw6j8cezUYrX9ztZeP7AbxkMJ3lQIFvAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer" href="#img1" x="0" y="0" />
+</svg>
